@@ -2,6 +2,7 @@
 Kaggle Competition Code for Duke Machine Learning Team
 
 Duke Computer Science Department: Kaggle Machine Learning Team
+
 Students: 
 James Wu (2018), Brian Hur (2019), Wilson Zhang (2019)
 
